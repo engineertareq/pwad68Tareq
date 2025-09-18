@@ -1,0 +1,22 @@
+Git Acc
+2. Git Version --- git -v
+https://git-scm.com/downloads/win
+3. Download  & Install
+4. Create Repository at remote
+https://github.com/engineertareq/----
+
+5. Create a directory in local computer
+E:\Round-68\Tanjimul Islam Tareq\GitProjects
+
+6. in cmd -- git init
+7. create a file in folder xyzxz.txt & command in cmd ---- git add xyzxz.txt
+8. command -- git status
+9. command - git add . (All files will be cached for commit)
+8. git status
+9.git commit -m "first commit"
+10. git branch -M main
+11. git remote add origin 
+12.https://github.com/engineertareq/pwad68.git
+13. if error then use credential manage to
+-remove GitHub user & login git hub
+13. git push -u origin main
